@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+orb_config.json
+config.json
+.env
+.venv/
+env/
+venv/
